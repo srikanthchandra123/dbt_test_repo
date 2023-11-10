@@ -1,0 +1,1 @@
+select * from ANALYTICS.DBT_AVAILLANT.CUSTOMER limit 100
